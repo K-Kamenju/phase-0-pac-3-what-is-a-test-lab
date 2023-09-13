@@ -40,3 +40,7 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 .results.json
+
+# dotenv environment variables file
+.env
+.env.test
